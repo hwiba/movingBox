@@ -1,0 +1,12 @@
+# for OS
+.DS_Store
+
+# for IDE
+.idea
+.settings
+.project
+.classpath
+
+# for Build
+target
+
